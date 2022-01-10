@@ -1,0 +1,37 @@
+Changelog for "0.1a1" version:
+=================================================================================================================================================================================
+[GAME BASE] - Added game icon;
+[GAME BASE] - Added character;
+[GAME BASE] - Added camera following player;
+[CHARACTER] - Added fully character customization;
+[CHARACTER] - Added shadow to the character;
+[CHARACTER] - Added health, hunger and stamina points;
+[CHARACTER] - Added energy, happiness and hygiene points;
+[FEATURES] - Added ability to run;
+[FEATURES] - Added inventory;
+[FEATURES] - Added chest reward system;
+[INVENTORY] - Added new tabs: "Resources", "Food", "Chests", "Materials" and "All" tab;
+[ITEMS] - Added new "resources" items: wood, wood planks, stone, coal, copper ore, iron ore, gold ore, copper ignot, iron ignot, gold ignot and fiber;
+[ITEMS] - Added new "food" items: apple, pack of chips and bottle of soda;
+[ITEMS] - Added new "materials" items: rope and first aid kit;
+[ITEMS] - Added new "chests" item: wooden chest;
+[MAP] - Added new location: Airport;
+[MAP] - Added new location: Sawmill;
+[MAP] - Added new location: East Side District;
+[MAP] - Added new location: City center;
+[JOBS] - Added new job: Loader (East side district)
+      Unload trucks with boxes of various items and load them into containers near the airport barns.
+[JOBS] - Added new job: Lumberjack (Sawmill)
+      Chop down trees to get paid and item "Wood"
+[JOBS] - Added new job skill: Loader;
+[JOBS] - Added new job skill: Lumberjack;
+[BUSINESS] - Added new business: RoNald's Cafe (Fast-food) (City center);
+[BUSINESS] - Added new business: Beaty clothsss (Clothes store) (City center);
+[HOUSES] - Added new "common" house (East side district);
+[HOUSES] - Added new "uncommon" house (City center);
+[ADMIN] - Added admin console;
+[ADMIN] - Added new admin commands;
+[NPCs] - Added new NPC to the sawmill;
+[NPCs] - Added new NPC to the loader job (East side district);
+[INTERIORS] - Added new interior: RoNald's Cafe;
+[INTERIORS] - Added new interior: Common house;
